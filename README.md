@@ -10,7 +10,7 @@ I'ma data analyst, proficient with languages like SQL, Python, and R and tools l
 <p>
 <a align= "center" href="https://github.com/rohanA6">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanA6&theme=radical">
-<img align="right" height="350" width="400" src="C:\Users\Asus\OneDrive\Desktop\Github pics\Data.png" /> </a>
+<img align="right" height="350" width="400" src="Data.png" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
 
