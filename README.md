@@ -12,7 +12,7 @@ I'ma Data Analyst and  Data Science enthusiast.
 <a align= "center" href="https://github.com/rohanA6">
 <hr>
 <h2> Projects I've done </h2>
-<img align="right" height="350" width="350" padding="2 rem" style="position : absolute; right: 2rem; top:0;" src="Data2.png" /> </a>
+<img align="right" height="330" width="330" padding="2 rem" style="position : absolute; right: 2rem; top:0;" src="Data2.png" /> </a>
 <h3 style="margin-bottom: 2rem;">✅ Supervised machine learning</h3>
 <h5>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h5>
 <h5>➡️Flight Fare Prediction </h5>
