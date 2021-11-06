@@ -2,10 +2,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Rohan Ahire</h1>
-<h4 align="center">
+<h3 align="center">
 I'ma data analyst, proficient with languages like SQL, Python, and R and tools like Google Sheets and tableau. I am also handy with both supervised  and unsupervised  machine learning 
  
-</h4>
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanA6&label=Profile%20views&color=0e75b6&style=flat" alt="rohanA6" /> </p>
 <p>
 <a align= "center" href="https://github.com/rohanA6">
