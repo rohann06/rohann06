@@ -15,7 +15,7 @@ I'ma data analyst, proficient with languages like SQL, Python, and R and tools l
 <h4>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h4>
 <h4>➡️Flight Fare Prediction </h4>
 
-<h3 style="margin-bottom: 2rem;">✅ Data analytics(Tableau vizzes)</h3>
+<h3 style="margin: 2rem;">✅ Data analytics(Tableau vizzes)</h3>
 <h4>➡️<a href="https://public.tableau.com/views/AtliqHardwareSalesAnalysis/AtliqHarware?:language=en-US&:display_count=n&:origin=viz_share_link">Atliq Hardware Sales Analysis</a></h4>
 <h4>➡️<a href="https://public.tableau.com/views/2021COVID-19INDIAcasesanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">2021 COVID-19 INDIA cases analysis</a></h4>
 <h4>➡️<a href="https://public.tableau.com/views/SpendMoneyByGenerations/MonrySpantByGeneration?:language=en-US&:display_count=n&:origin=viz_share_link">Spend Money By Generations</a></h4>
