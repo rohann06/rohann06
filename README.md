@@ -11,6 +11,7 @@ I'ma data analyst, proficient with languages like SQL, Python, and R and tools l
 <a align= "center" href="https://github.com/rohanA6">
 <hr>
 <h2> Projects I've done </h2>
+<img align="right" height="500" width="400" padding="2 rem" style="position : absolute; right: 2rem; top:0;" src="Data2.png" /> </a>
 <h3 style="margin-bottom: 2rem;">✅ Supervised machine learning</h3>
 <h5>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h5>
 <h5>➡️Flight Fare Prediction </h5>
@@ -20,7 +21,6 @@ I'ma data analyst, proficient with languages like SQL, Python, and R and tools l
 <h5>➡️<a href="https://public.tableau.com/views/2021COVID-19INDIAcasesanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">2021 COVID-19 INDIA cases analysis</a></h5>
 <h5>➡️<a href="https://public.tableau.com/views/SpendMoneyByGenerations/MonrySpantByGeneration?:language=en-US&:display_count=n&:origin=viz_share_link">Spend Money By Generations</a></h5>
 
-<img align="right" height="500" width="400" padding="2 rem" style="position : absolute; right: 4rem; bottom :18rem; " src="Data2.png" /> </a>
 </p>
 <img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
 
