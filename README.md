@@ -9,6 +9,8 @@ I'ma data analyst, proficient with languages like SQL, Python, and R and tools l
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanA6&label=Profile%20views&color=0e75b6&style=flat" alt="rohanA6" /> </p>
 <p>
 <a align= "center" href="https://github.com/rohanA6">
+<hr>
+         <h4> Projects I've done </h4>
 <img align="right" height="350" width="400" src="Data.png" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
