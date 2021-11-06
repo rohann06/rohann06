@@ -13,7 +13,7 @@ I'ma data analyst, proficient with languages like SQL, Python, and R and tools l
          <h4> Projects I've done </h4>
 <img align="right" height="250" width="300" padding="2 rem" src="Data.png" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
 
 - 📫 How to reach me **rohanahire651@gmail.com**
 <br><br>
