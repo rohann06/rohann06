@@ -6,6 +6,7 @@
 I'ma Data Analyst and  Data Science enthusiast.
 </h3>
 <h2>Languages I'm handy with :<h2>
+<img height="120" style="margin : auto;" src= "https://user-images.githubusercontent.com/75326769/140620528-cd6db47a-f949-4e56-ad61-0cd1a91b8d82.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanA6&label=Profile%20views&color=0e75b6&style=flat" alt="rohanA6" /> </p>
 <p>
 <a align= "center" href="https://github.com/rohanA6">
