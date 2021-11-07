@@ -38,6 +38,7 @@ I'm Data Analyst and  Data Science enthusiast.
 <img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
 
 - 📫 How to reach me <a href="mailto:rohanhire651@gmail.com"> **rohanahire651@gmail.com** </a> 
+- [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png' alt='discord' height='30'>](https://discordapp.com/users/Rony#3882/)
 <br><br>
 <hr>
 
