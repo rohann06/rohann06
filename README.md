@@ -37,9 +37,7 @@ I'm Data Analyst and  Data Science enthusiast.
 </p>
 <img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
 
-<br>
-<br>
-- 📫 How to reach me **rohanahire651@gmail.com**
+- 📫 How to reach me <a href="mailto:rohanhire651@gmail.com"> **rohanahire651@gmail.com** </a> 
 <br><br>
 <hr>
 
