@@ -38,7 +38,7 @@ I'm Data Analyst and  Data Science enthusiast.
 <img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
 
 - 📫 How to reach me <a href="mailto:rohanhire651@gmail.com"> **rohanahire651@gmail.com** </a> 
-- <p align="left"> <a href="Rony#3882" target="blank"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"   alt="Rony#3882" /></a> </p>
+- <p align="left"> <a href=“https://discordapp.com/users/Rony#3882/” target="blank"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"   alt="Rony#3882" /></a> </p>
 <br><br>
 <hr>
 
