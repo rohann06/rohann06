@@ -10,7 +10,7 @@ I'ma Data Analyst and  Data Science enthusiast.
 <br>
 <br>
 <p align = "center">
-<img height="220" style="margin-left : 7rem;" src= "https://user-images.githubusercontent.com/75326769/140635015-05e66ade-9f00-4ff6-aa22-99a249614d36.png"/> 
+<img height="200" src= "https://user-images.githubusercontent.com/75326769/140635015-05e66ade-9f00-4ff6-aa22-99a249614d36.png"/> 
 </p>
 <br>
 <br>
