@@ -4,7 +4,7 @@
          width="45" />, I'm Rohan Ahire</h1>
          
 <h3 align="center">
-I'ma Data Analyst and  Data Science enthusiast.
+I'm Data Analyst and  Data Science enthusiast.
 </h3>
 <br>
 <br>
