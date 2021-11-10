@@ -23,16 +23,15 @@ I'm Data Analyst and  Data Science enthusiast.
          
 <img align="right" height="400" width="350" src="https://user-images.githubusercontent.com/75326769/140636019-d11c1bc0-6b26-4878-acd5-5f698ef4e8a6.png" /> </a>
 
-<h3>✅ Supervised machine learning</h3>
-<h5>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h5>
-<h5>➡️Flight Fare Prediction </h5>
+
+<h3>✅ Data analytics(<a href="https://public.tableau.com/app/profile/rohan6366">Tableau vizzes</a>)</h3>
+<h5>➡️<a href="https://public.tableau.com/views/AtliqHardwareSalesAnalysis/AtliqHarware?:language=en-US&:display_count=n&:origin=viz_share_link">Atliq Hardware Sales Analysis</a></h5>
+<h5>➡️<a href="https://public.tableau.com/views/SpendMoneyByGenerations/MonrySpantByGeneration?:language=en-US&:display_count=n&:origin=viz_share_link">Spend Money By Generations</a></h5>
 <br>
          
-         
-<h3>✅ Data analytics(Tableau vizzes)</h3>
-<h5>➡️<a href="https://public.tableau.com/views/AtliqHardwareSalesAnalysis/AtliqHarware?:language=en-US&:display_count=n&:origin=viz_share_link">Atliq Hardware Sales Analysis</a></h5>
-<h5>➡️<a href="https://public.tableau.com/views/2021COVID-19INDIAcasesanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">2021 COVID-19 INDIA cases analysis</a></h5>
-<h5>➡️<a href="https://public.tableau.com/views/SpendMoneyByGenerations/MonrySpantByGeneration?:language=en-US&:display_count=n&:origin=viz_share_link">Spend Money By Generations</a></h5>
+<h3>✅ Supervised machine learning</h3>
+<h5>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h5>
+<h5>➡️Flight Fare Prediction </h5> 
 
 </p>
 <img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
