@@ -30,8 +30,7 @@ I'm Data Analyst and  Data Science enthusiast.
 <br>
          
 <h3>✅ Supervised machine learning</h3>
-<h5>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h5>
-<h5>➡️Flight Fare Prediction </h5> 
+<h5>➡️<a href="https://carprice-predictionapp.herokuapp.com/">Car price Prediction</a> </h5> 
 
 </p>
 <img height="200px" width="450" src="https://github-readme-stats.vercel.app/api?username=rohanA6&count_private=true&theme=radical&show_icons=true" />
