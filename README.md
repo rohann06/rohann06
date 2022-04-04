@@ -7,8 +7,8 @@
 I'm a 20-yo data analyst and aspiring to be a software developer.
 </h3>
 
-- [Developer DAO](https://github.com/developer-dao) - I joined here to contribute in.
-- [Tableau](https://public.tableau.com/app/profile/rohan6366) - This is my tableau public profile I deploy my dashboards here.
+- I've just joined the [Developer DAO](https://github.com/developer-dao) to contribute in a web3 projects.
+- This is my [Tableau public](https://public.tableau.com/app/profile/rohan6366) profile, I deploy my dashboards here.
 
 <h4>contact me</h4>
 <a href="https://twitter.com/rohan651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan651" height="28" width="38" /></a>
