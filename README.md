@@ -10,7 +10,10 @@ I'm a 20-yo data analyst who aspiring to be a software developer.
 - I've just joined the [Developer DAO](https://github.com/developer-dao) to contribute in a web3 projects.
 - This is my [Tableau public](https://public.tableau.com/app/profile/rohan6366) profile, I deploy my dashboards here.
 
-<h4>My Project</h4>
+<h4>My Projects</h4>
+
+- [Dice Game](https://github.com/rohanA6/Dice_Game) 
+
 
 
 
