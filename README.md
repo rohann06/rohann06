@@ -4,7 +4,7 @@
          width="45" />, I'm Rohan Ahire</h1>
          
 <h3 align="center">
-I'm a 20-yo data analyst and aspiring to be a softwear developer.
+I'm a 20-yo data analyst and aspiring to be a software developer.
 </h3>
 
 - [Developer DAO](https://github.com/developer-dao) - I joined here to contribute in.
