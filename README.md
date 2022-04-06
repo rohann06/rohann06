@@ -11,7 +11,7 @@ I'm a 20-yo data analyst who aspiring to be a software developer.
 - This is my [Tableau public](https://public.tableau.com/app/profile/rohan6366) profile, I deploy my dashboards here.
 
 *<h3>👉 ReactJs Projects</h3>*
-
+ - [The Blog site](https://github.com/rohanA6/React_Blog_site)
 
 *<h3>👉 javascript Projects</h3>*
 - [Dice Game](https://github.com/rohanA6/Dice_Game)
