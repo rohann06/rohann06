@@ -4,7 +4,7 @@
          width="45" />, I'm Rohan Ahire</h1>
          
 <h3 align="center">
-I'm a 21-yo data scientist who aspiring to be a software developer.
+A data scientist who aspiring to be a software developer.
 </h3>
 
 
