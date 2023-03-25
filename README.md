@@ -1,11 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Rohan Ahire</h1>
-         
-<h3 align="center">
-A data scientist who aspiring to be a software developer.
-</h3>
+### Hey! I'm Miral Suthar 👋
+
+- 💻 I'm a Frontend Web Developer and UI designer.
+- 💚 Love to building Frontend stuff and UX/UI Designs.
+- 🧑🏼‍💻 Here is my [portfolio website](https://rohan06.vercel.app/)
+- 🧰 Technology I use: React | Nextjs | Prisma | Postgres | Javascript| Typescript | Tailwindcss
+
+
+
+ 
+
+
+
 
 
 
