@@ -6,6 +6,7 @@
 - 🧰 Technology I use: React | Nextjs | Prisma | Postgres | Javascript| Typescript | Tailwindcss
 
 
+<img src="https://github.com/rohanA6/rohanA6/blob/main/Digital%20Marketing.gif" alt="mypic" style="width:600px; height:400px"/>
 
  
 
