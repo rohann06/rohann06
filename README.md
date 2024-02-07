@@ -1,12 +1,11 @@
 ### Hey! I'm Rohan ahire👋
 
-- 💻 I'm a Frontend Web Developer and UI designer.
-- 💚 Love to build Frontend stuff and UX/UI Designs.
+- 💻 I'm a Frontend Web Developer and share an interest in web3.
+- 💚 Love to build Frontend stuff.
 - 🧑🏼‍💻 Here is my [portfolio website](https://rohan06.vercel.app/)
-- 🧰 Technology I use: React | Nextjs | Prisma | Postgres | Javascript| Typescript | Tailwindcss
+- 🧰 Technology I use: React | Nextjs | Prisma | Postgres | Javascript| Typescript | Tailwindcss | Solidity | Hardhat
 
 
-<img src="https://github.com/rohanA6/rohanA6/blob/main/Digital%20Marketing.gif" alt="mypic" style="width:400px; height:250px"/>
 
  
 
