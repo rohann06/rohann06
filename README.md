@@ -1,9 +1,22 @@
-### Hey! I'm Rohan ahire👋
+## Hey! I'm Rohan ahire👋
 
-- 💻 I'm a Frontend Web Developer and share an interest in web3.
-- 💚 Love to build Frontend stuff.
+- 💻 I'm a Developer who shares an interest in web3.
+- 💚 Love to solve problems, and build stuff.
 - 🧑🏼‍💻 Here is my [portfolio website](https://rohan06.vercel.app/)
-- 🧰 Technology I use: React | Nextjs | Prisma | Postgres | Javascript| Typescript | Tailwindcss | Solidity | Hardhat
+- 🧰 Technology I use: 
+ - ## Frontend           
+   ##### ReactJs | NextJs13 | TypeScript | JavaScript | TilwindCSS
+
+ - ### Backend
+   ##### NodeJs | Expressjs | TypeScript | JavaScript
+
+ - ### Database
+   ##### MySql | MongoDB | PostgreSQL
+
+ - ### DevOps
+   ##### Docker | AWS 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
