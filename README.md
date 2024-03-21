@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Front-end**
 
-- 👨‍💻 All of my projects are available at [https://rohan06.vercel.app/](https://rohan06.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Porfolio](https://rohan06.vercel.app/)
 
-- 🌱 I’m currently learning **Web3, Rust**
+- 🌱 I’m currently learning **Web3**
 
 - 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1LJiAqN2DKVBtODnn8iBC6hfGrza6PHrClSsVD4wy7go/edit?usp=sharing)
 
