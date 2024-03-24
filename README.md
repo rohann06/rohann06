@@ -22,4 +22,3 @@
 <a href="https://linkedin.com/in/rohan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan6" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-ahire06&" alt="rohan-ahire06" /></p>
