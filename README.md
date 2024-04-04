@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1LJiAqN2DKVBtODnn8iBC6hfGrza6PHrClSsVD4wy7go/edit?usp=sharing)
 
-- ⚡ Fun fact **" I may not know everything, but I know where to find it😉 "**
+- ⚡ Fun fact **" I may not know everything, but I know how to find it😉 "**
 
 - 📫 How to reach me **rohanahire006@gmail.com**
 
