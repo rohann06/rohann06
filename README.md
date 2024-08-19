@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-ahire06&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-ahire06" /> </p>
 
-- 💬 Ask me about **Front-end**
+- 💬 Ask me about anything, I might not know about it, but I know how to find it.
 
-- 👨‍💻 All of my projects are available at [My Porfolio](https://rohan06.vercel.app/)
+- 👨‍💻 All of my projects are available at **[My Porfolio](https://rohan06.vercel.app/)**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web3**, Doing open source in **[Developer_DAO](https://x.com/developer_dao)** & **[Build Guild](https://x.com/buidlguidl)**
 
-- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1LJiAqN2DKVBtODnn8iBC6hfGrza6PHrClSsVD4wy7go/edit?usp=sharing)
-
-- ⚡ Fun fact **" I may not know everything, but I know how to find it😉 "**
+- ⚡ Fun fact **" I'm just a developer who loves to build regardless of any tech stack or language"**
 
 - 📫 How to reach me **rohanahire006@gmail.com**
 
