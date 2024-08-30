@@ -1,4 +1,5 @@
-![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg)
+![web3-developers_cover-scaled](https://github.com/user-attachments/assets/7e7df30d-2bea-47b7-92d0-15784c78d4ba)
+
 <h1 align="center">Hi 👋, I'm Rohan ahrie</h1>
 <h3 align="center">A passionate developer from India 📍</h3>
 
