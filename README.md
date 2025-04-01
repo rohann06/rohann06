@@ -1,5 +1,3 @@
-![web3-developers_cover-scaled](https://github.com/user-attachments/assets/7e7df30d-2bea-47b7-92d0-15784c78d4ba)
-
 <h1 align="center">Hi 👋, I'm Rohan ahrie</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-ahire06&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-ahire06" /> </p>
