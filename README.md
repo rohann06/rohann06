@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-ahire06&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-ahire06" /> </p>
 
-- 💬 Ask me about anything, I might not know about it, but I know how to find it.
+- 💬 Ask me about anything, I might not know about it, but I'll figure it out.
 
 - 👨‍💻 Explore my work and get to know me better through **[My Porfolio](https://rohan06.vercel.app/)**
 
@@ -10,8 +10,6 @@
     - **[Developer_DAO](https://x.com/developer_dao)**
     - **[Build Guild](https://x.com/buidlguidl)**
     - **[Speedruneth Ereum](https://speedrunethereum.com/builders/0x4a9A95B6fe3b9416f0c78A8735Aa075c75AF46a4)**
-
-- ⚡ Fun fact **" I'm just a developer who loves to build regardless of any tech stack or language"**
 
 - 📫 How to reach me **rohanahire006@gmail.com**
 
@@ -26,5 +24,5 @@
 [![Rohan Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohann06/)
 [![Rohan YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rohannaahiree5)
 [![Rohan Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohann006)
-[![Rohan StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20055425/rohan-ahire)
+[![Rohan Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rohann06_)
 
