@@ -12,13 +12,6 @@
     - **[Speedruneth Ereum](https://speedrunethereum.com/builders/0x4a9A95B6fe3b9416f0c78A8735Aa075c75AF46a4)**
 
 - 📫 How to reach me **rohanahire006@gmail.com**
-
-
-<h3 align="left">Github Stats 📊</h3>
-
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=rohann06)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="left">
   
 [![Rohan Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohann06/)
