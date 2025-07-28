@@ -9,7 +9,6 @@
 - 🌱 Open-source projects I've worked on
     - **[Developer_DAO](https://x.com/developer_dao)**
     - **[Build Guild](https://x.com/buidlguidl)**
-    - **[Speedruneth Ereum](https://speedrunethereum.com/builders/0x4a9A95B6fe3b9416f0c78A8735Aa075c75AF46a4)**
 
 - 📫 How to reach me **rohanahire006@gmail.com**
 <p align="left">
